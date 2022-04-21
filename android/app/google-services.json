@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414432962655",
+    "firebase_url": "https://ray-chat-cf0f4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ray-chat-cf0f4",
+    "storage_bucket": "ray-chat-cf0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414432962655:android:d6e4b756f8f66a5e9c93ea",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.RayChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414432962655-06u2b8pbf8qes58gfi3u3m37nfugvpsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQk5jawwNA2hAkaprSkDkwLKv3kY27Xb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414432962655-06u2b8pbf8qes58gfi3u3m37nfugvpsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
